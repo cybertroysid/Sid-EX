@@ -1,0 +1,48 @@
+
+
+
+.sid{
+
+  width:150px;
+  height:150px
+}
+
+.star{
+
+  color:red;
+
+}
+
+hr{
+
+  border-style: none;
+  width:100%;
+  border-top-style:solid; 
+  height: 0;
+  border-color: #050801;
+
+}
+
+h1
+{
+  color: #050801;
+}
+
+
+h2
+
+{
+
+color: #050801;
+
+}
+
+.sidd{
+  color:#050801;
+}
+
+body
+{
+
+  background-color: #FAFAD2;
+}
