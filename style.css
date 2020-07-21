@@ -17,8 +17,8 @@ hr{
 
   border-style: none;
   width:100%;
-  border-top-style:solid; 
-  height: 0;
+  background-color:#050801;
+  height: 1px;
   border-color: #050801;
 
 }
